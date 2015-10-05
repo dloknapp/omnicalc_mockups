@@ -1,3 +1,22 @@
 body {
+  color: rgb(85,85,85);
+}
 
+.customheader{
+  padding: 0px;
+  font-size: 16px;
+  margin:0px;
+}
+
+.black_text{
+  color: black;
+}
+
+.align_right{
+  text-align: right;
+}
+
+.gray_button{
+  background-color: #efefef;
+  color: #555;
 }
