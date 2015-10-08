@@ -20,3 +20,5 @@ body {
   background-color: #efefef;
   color: #555;
 }
+
+.dl-horizontal dt{white-space: normal;word-wrap:break-word;}
